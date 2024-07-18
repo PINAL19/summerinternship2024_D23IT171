@@ -239,7 +239,8 @@ o	Identify and fix any bugs or issues.
 o	Optimize the app for better performance and responsiveness.
 4.	UI/UX Enhancements:
 o	Refine the user interface and experience based on feedback and testing results.
-________________________________________
+
+
 Week 4 Summary
 This week, you developed a food delivery app starting with an introduction and basic setup. You focused on designing the user interface for key screens like login, home, menu, and orders. Navigation and authentication were implemented to manage user sessions and screen transitions. You integrated a backend service to fetch menu data and manage orders, ensuring real-time updates. The week concluded with thorough testing, bug fixing, and performance optimizations to refine the app and ensure a smooth user experience.
 
